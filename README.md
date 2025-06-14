@@ -132,7 +132,4 @@ Each yielded item adheres to this structure, simplifying downstream processing a
 
 ## License
 
-MIT License © Your Name
-
-```
-```
+MIT License © Oudghiri Mehdi
