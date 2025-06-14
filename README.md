@@ -73,10 +73,10 @@ playwright install
 
 ```bash
 # Run spider and output to JSON
-scrapy crawl linkedin -o profiles.json
+scrapy crawl linkedinSpider -o profiles.json
 
 # Sample: limit execution depth or set log level
-scrapy crawl linkedin --set LOG_LEVEL=INFO
+scrapy crawl linkedinSpider --set LOG_LEVEL=INFO
 ```
 
 Profiles will be saved as a list of JSON objects with fields defined in the `LinkedInProfile` dataclass.
