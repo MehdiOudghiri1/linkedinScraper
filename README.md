@@ -1,4 +1,3 @@
-````markdown
 # LinkedIn Supercharged Scrapy Spider
 
 A high-performance Scrapy crawler powered by Playwright, built to harvest LinkedIn profile data for individuals who studied in France within engineering, medical, or computer science fields.
